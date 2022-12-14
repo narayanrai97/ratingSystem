@@ -60,5 +60,5 @@ gem 'paperclip', git: 'git://github.com/thoughtbot/paperclip.git'
 gem 'bootstrap-sass', '>= 3.4.1'
 
 gem 'nokogiri',             '>= 1.10.4'
-gem 'rails-html-sanitizer', '~> 1.0.4' #added
+gem 'rails-html-sanitizer', '~> 1.4.4' #added
 gem 'sprockets',            '~> 3.7.2' #added
